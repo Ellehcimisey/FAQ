@@ -1,0 +1,24 @@
+*{
+    background: rgb(52, 51, 51);
+    margin: 0;
+}
+
+.questions {
+    display: flex;
+    flex-direction: column;
+}
+
+.question {
+    margin: 5px;
+    background-color: beige;
+
+}
+
+button {
+    background-color: rgb(164, 147, 181);
+    border-radius: 3px;
+}
+
+button::after{
+}
+
