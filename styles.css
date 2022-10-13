@@ -17,12 +17,12 @@ h1 {
     margin: 5px;
     width: 600px;
     background-color: #D9B0EE;
-    color: black;
+    color: #432054;
     border-radius: 2px;
 }
 
 .question {
-    margin: 10px;
+    margin: 15px;
     padding: 0;
 }
 
@@ -30,7 +30,12 @@ h1 {
     margin: 5px 8px;
     padding: 3px 10px;
     background-color: #c179e6;
+    color: #432054;
     border-radius: 4px;
+}
+
+.question:hover{
+    cursor: pointer;
 }
 
 
